@@ -21,7 +21,7 @@ module.exports = function (api) {
     conf.framework.cssAddon = true;
 
     // make sure boot file is registered
-    conf.boot.push("~quasar-app-extension-rb-ui/src/boot/register.js");
+    conf.boot.push("~@beliven/quasar-app-extension-rb-ui/src/boot/register.js");
 
     // make sure boot & component files get transpiled (only for Webpack)
     conf.build?.transpileDependencies?.push(

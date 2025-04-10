@@ -26,7 +26,7 @@
 | Name | Description |
 | ---- | ----------- |
 | `blur` | A date and&#x2F;or time input with support for custom formats |
-| `update:modelValue` | A date and&#x2F;or time input with support for custom formats |
+| `update:model-value` | A date and&#x2F;or time input with support for custom formats |
 | `update:dt` | A date and&#x2F;or time input with support for custom formats |
 
 ## Methods
